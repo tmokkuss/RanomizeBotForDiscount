@@ -3,7 +3,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 import random
 
-bot = Bot(token='5704710100:AAH9M8v5M5xaf0gwpUYd45Q5LlQM3PEKsFo')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 
 photos = ['3.png', '4.png', '5.png', '6.png', '7.png']
